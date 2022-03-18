@@ -1,12 +1,12 @@
 {
-  "name": "next-csrf",
+  "name": "@arunesh90/next-csrf",
   "version": "0.1.2",
   "description": "CSRF mitigation library for Next.js",
   "main": "dist/next-csrf.js",
   "module": "dist/next-csrf.esm.js",
   "types": "@types/",
   "source": "src/index.ts",
-  "repository": "https://github.com/j0lv3r4/next-csrf",
+  "repository": "https://github.com/arunesh90/next-csrf",
   "author": "Juan Olvera",
   "license": "MIT",
   "scripts": {
