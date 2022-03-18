@@ -1,6 +1,6 @@
 {
   "name": "@arunesh90/next-csrf",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CSRF mitigation library for Next.js",
   "main": "dist/next-csrf.js",
   "module": "dist/next-csrf.esm.js",
